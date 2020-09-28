@@ -1,6 +1,6 @@
 # Personal Projects
 
-TechNaluGie \[[landing]](https://www.technalugie.com/) — a simple static webpage I created in the summer of 2017 to advertise a computer science course I held. 
+TechNaluGie \[[landing](https://www.technalugie.com/)] — a simple static webpage I created in the summer of 2017 to advertise a computer science course I held. 
 
 Solar Bench \[[landing](https://interactive-solar-exhibit.herokuapp.com/) / [source](https://github.com/naluconcepcion/interactive-solar-exhibit)] — a website I created in the fall of 2018 using React frontend to compute and render some summary statistics about a solar bench project my friends and I built as an independent project in our final year of high school. 
 
