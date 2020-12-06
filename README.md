@@ -27,10 +27,10 @@ In my spare time, I usually find myself [buried in some light reading](https://w
 * [Carri Chan: Leveraging Probability to Optimize Healthcare Systems](https://docs.google.com/document/d/1-_jd-WTLuWZTQ92xYL4JVbZKCe-cfzZ0zv7aWXt-aUk/edit?usp=sharing). A brief paper I wrote for a probability class at Cornell University in the Spring of 2020. 
 
 ## Creative
-* [should i watch this movie?](https://kitschcornell.com/2020/07/13/should-i-watch-this-movie/). A film review I originally wrote for a Dream Visions Literature class I took in the Winter of 2019. Edited for content and published as part of an on campus creative arts magazine in the Spring of 2020.
+* [should i watch this movie?](https://kitschcornell.com/2020/07/13/should-i-watch-this-movie/) — A film review I originally wrote for a Dream Visions Literature class I took in the Winter of 2019. Edited for content and published as part of an on campus creative arts magazine in the Spring of 2020.
 
-* [two liturgies](https://kitschcornell.com/2020/01/12/two-liturgies/). A lyric essay/reflection on my first semester of college. Published as part of an on-campus creative arts magazine in the Fall of 2019.
+* [two liturgies](https://kitschcornell.com/2020/01/12/two-liturgies/) — A lyric essay/reflection on my first semester of college. Published as part of an on-campus creative arts magazine in the Fall of 2019.
 
-* ["mama"](https://docs.google.com/document/d/1PIJEm83EtuU6lwiU9Ry5Bt0suSFudmItbne9o0k_PJs/edit?usp=sharing). A poem a classmate (Lauren Fanning) and I co-authored and co-edited for our English class reflecting on the physical, emotional, and social experiences of motherhood in the Spring of 2018.
+* ["mama"](https://docs.google.com/document/d/1PIJEm83EtuU6lwiU9Ry5Bt0suSFudmItbne9o0k_PJs/edit?usp=sharing) — A poem a classmate (Lauren Fanning) and I co-authored and co-edited for our English class reflecting on the physical, emotional, and social experiences of motherhood in the Spring of 2018.
 
-* [read instructions carefully: or else](https://www.technalugie.com/untethered). A lyric essay/webpage I created as a final project for a Medieval Literature class in the Fall of 2018. This piece is a set of reflections on the interplay of my faith and my adolescence.
+* [read instructions carefully: or else](https://www.technalugie.com/untethered) — A lyric essay/webpage I created as a final project for a Medieval Literature class in the Fall of 2018. This piece is a set of reflections on the interplay of my faith and my adolescence.
