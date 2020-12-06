@@ -24,7 +24,7 @@ In my spare time, I usually find myself [buried in some light reading](https://w
 
 * [How Re-Defining the Boundaries of "Security Studies" Would Protect the Marginalized](https://docs.google.com/document/d/19y29outELMeemi3s0dejfwiO7CQ75aV7u-td3SgKszE/edit?usp=sharing). A research proposal I submitted for a Government seminar class at Cornell University in the Spring of 2020.
 
-
+* [Carri Chan: Leveraging Probability to Optimize Healthcare Systems](https://docs.google.com/document/d/1-_jd-WTLuWZTQ92xYL4JVbZKCe-cfzZ0zv7aWXt-aUk/edit?usp=sharing). A brief paper I wrote for a probability class at Cornell University in the Spring of 2020. 
 
 ## Creative
 * [should i watch this movie?](https://kitschcornell.com/2020/07/13/should-i-watch-this-movie/). A film review I originally wrote for a Dream Visions Literature class I took in the Winter of 2019. Edited for content and published as part of an on campus creative arts magazine in the Spring of 2020.
