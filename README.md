@@ -1,5 +1,5 @@
 # The Interesting Stuff
-I'm a 19 y/o developer, writer, teacher, and student invested in indulging my curiosity to learn at the edges of my unknowns.
+I'm a 19 y/o developer, writer, teacher, and student inulging my curiosity & learning at the edges of my unknowns.
 
 I'm currently double majoring in Operations Research & Information Engineering and Computer Science at Cornell University. I will be graduating in the Spring of 2023.
 
