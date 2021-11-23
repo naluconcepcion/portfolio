@@ -1,11 +1,15 @@
 # The Interesting Stuff
-I'm a 19 y/o developer, writer, teacher, and student inulging my curiosity & learning at the edges of my unknowns.
+I'm a 20 y/o developer, writer, teacher, and student.
 
-I'm currently double majoring in Operations Research & Information Engineering 🔎 and Computer Science 💻 at Cornell University. I will be graduating in the Spring of 2023.
+I'm currently double majoring in Operations Research & Information Engineering 🔎 and Computer Science 💻 at Cornell University. I will be graduating in the Winter of 2022! 
 
 In my spare time, I usually find myself [buried in some light reading](https://www.goodreads.com/user/show/84197654-nalu-concepcion), [connecting and engaging](https://www.linkedin.com/in/nalu-concepcion/) with others, or [sipping on sounds](https://open.spotify.com/user/naluasti?si=EvYyFZz-TrmOUjyUNYGkXw). I'm always down to have a mellow chat about anything at all -- CS, politics, the world, your lunch. Feel free to [reach out](mailto:lac327@cornell.edu)!
 
 # Tech Projects
+
+**RISC-V Interpreter** - A C interpreter for the RISC-V language, supporting a variety of R, I, S, and U-type instructions according to the RISC-V manual specifications, offering support for memory up to $2^{31}$ bits large. This interpreter was built independently in the Fall of 2021. (Available upon request; due to academic integrity clauses, I cannot release my code publicly.)
+
+**RISC-V Single Cycle Processor** - A RISC-V processor supporting a variety of R, I, S, and U-type instructions according to the RISC-V manual specifications. This project was built independently in the Fall of 2021 using the Logisim simulator. (Available upon request; due to academic integrity clauses, I cannot release my code publicly.)
 
 **Functional Chess** \[[source](https://github.com/henryrobbins/chess)] — a semester-long OCaml-based project I built in close collaboration with three other Cornell classmates. My contributions were primarily in implementing the Puzzle Rush mode as well as with assisting with implementing uncommon moves such as pawn promotions and castling. 
 
