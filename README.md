@@ -7,7 +7,7 @@ In my spare time, I usually find myself [buried in some light reading](https://w
 
 # Tech Projects
 
-**RISC-V Interpreter** - A C interpreter for the RISC-V language, supporting a variety of R, I, S, and U-type instructions according to the RISC-V manual specifications, offering support for memory up to $2^{31}$ bits large. This interpreter was built independently in the Fall of 2021. (Available upon request; due to academic integrity clauses, I cannot release my code publicly.)
+**RISC-V Interpreter** - A C interpreter for the RISC-V language, supporting a variety of R, I, S, and U-type instructions according to the RISC-V manual specifications, offering support for memory up to $$2^{31}$$ bits large. This interpreter was built independently in the Fall of 2021. (Available upon request; due to academic integrity clauses, I cannot release my code publicly.)
 
 **RISC-V Single Cycle Processor** - A RISC-V processor supporting a variety of R, I, S, and U-type instructions according to the RISC-V manual specifications. This project was built independently in the Fall of 2021 using the Logisim simulator. (Available upon request; due to academic integrity clauses, I cannot release my code publicly.)
 
