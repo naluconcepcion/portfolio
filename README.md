@@ -3,7 +3,7 @@ I'm a 21 y/o developer, writer, teacher, and student.
 
 I'm currently double majoring in Operations Research & Information Engineering 🔎 and Computer Science 💻 at Cornell University. I will be graduating in the Winter of 2022! 
 
-In my spare time, I usually find myself [buried in some light reading](https://www.goodreads.com/user/show/84197654-nalu-concepcion), [connecting and engaging](https://www.linkedin.com/in/nalu-concepcion/) with others, or [sipping on sounds](https://open.spotify.com/user/naluasti?si=EvYyFZz-TrmOUjyUNYGkXw). I'm always down to have a mellow chat about anything at all -- CS, politics, the world, your lunch. Feel free to [reach out](mailto:lac327@cornell.edu)!
+In my spare time, I usually find myself [buried in some light reading](https://www.goodreads.com/user/show/84197654-nalu-concepcion), [connecting (pun very much so intended)](https://www.linkedin.com/in/nalu-concepcion/) with others, or [sipping on sounds](https://open.spotify.com/user/naluasti?si=EvYyFZz-TrmOUjyUNYGkXw). I'm always down to chat about anything at all -- CS, politics, the world, your lunch. Feel free to [reach out](mailto:lac327@cornell.edu)!
 
 # Tech Projects
 
