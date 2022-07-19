@@ -1,11 +1,12 @@
-# The Interesting Stuff
-I'm a 21 y/o developer, writer, teacher, and student.
+# The Rundown
 
-I'm currently double majoring in Operations Research & Information Engineering 🔎 and Computer Science 💻 at Cornell University. I will be graduating in the Winter of 2022! 
+I'm a 21 y/o developer, writer, teacher, and student. I'm currently based out of Redmond, WA for a summer software engineering internship at Microsoft! I'm a double major, and I'm working towards getting a B.S. in both Operations Research & Information Engineering 🔎 and Computer Science 💻 from Cornell University. 
+
+# The Good Stuff
 
 In my spare time, I usually find myself [buried in some light reading](https://www.goodreads.com/user/show/84197654-nalu-concepcion), [connecting (pun very much so intended)](https://www.linkedin.com/in/nalu-concepcion/) with others, or [sipping on sounds](https://open.spotify.com/user/naluasti?si=EvYyFZz-TrmOUjyUNYGkXw). I'm always down to chat about anything at all -- CS, politics, the world, your lunch. Feel free to [reach out](mailto:lac327@cornell.edu)!
 
-# Tech Projects
+# Projects
 
 **RISC-V Interpreter** - A C interpreter for the RISC-V assembly language, supporting a variety of R, I, S, and U-type instructions according to the RISC-V manual specifications, offering support for memory up to 2^31 bits large. This interpreter was built independently in the Fall of 2021. (Available upon request; due to academic integrity clauses, I cannot release my code publicly.)
 
