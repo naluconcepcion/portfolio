@@ -43,7 +43,7 @@ In my spare time, I usually find myself [buried in some light reading](https://w
 * [Medical Helicopter Placement in Upstate New York](https://docs.google.com/document/d/e/2PACX-1vTrREZIqUfYTBAJqB6uO6bxmubl4OSb20wW6Fq2Eh8UFH3wKVELKpiOCM1aHwRTyliKh1kM6SS2wNx9/pub) – A final report for a term-long research project for my Stochastic Simulation class which I co-authored alongisde three classmates (Julia Allen, Justin Lee, and Abhi Bhargava) in the Fall of 2021. (Code  available upon request; due to academic integrity clauses, I cannot release my code publicly.)
 
 ## Creative
-* [*Milenium Actress*-inspired Project](https://docs.google.com/document/d/e/2PACX-1vR1DGRzzs5miuQGqmTCnG3_KyZK-f6_K5st2tO2o-3ATIV6It608N251ppZpWiDT3__-TODsoSU2GDe/pub) – A currently un-titled creative project I wrote in the Spring of 2022 for my Japanese Film class, inspired by *Millenium Actress*.
+* [*Milenium Actress*-inspired Project](https://docs.google.com/document/d/e/2PACX-1vR1DGRzzs5miuQGqmTCnG3_KyZK-f6_K5st2tO2o-3ATIV6It608N251ppZpWiDT3__-TODsoSU2GDe/pub) – A currently un-titled fiction-based lyric-essay I wrote in the Spring of 2022 for my Japanese Film class, inspired by *Millenium Actress*.
 
 * [should i watch this movie?](https://kitschcornell.com/2020/07/13/should-i-watch-this-movie/) — A film review I originally wrote for a Dream Visions Literature class I took in the Winter of 2019. Edited for content and published as part of an on campus creative arts magazine in the Spring of 2020.
 
