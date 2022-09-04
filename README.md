@@ -33,7 +33,7 @@ In my spare time, I usually find myself [buried in some light reading](https://w
 
 * [Bilingual Code-Switching between Tagalog and English](https://docs.google.com/document/d/e/2PACX-1vQ99PrUzLUaD4ozoOPQcyKKpKFudhk8TGvpZmenGBffl5kfOjY4oZ_J5PDGSEID29l5UKDBpwtDAVWn/pub) - A piece I wrote unpacking Filipino sentiment towards Filipinos who are both Tagalog and English speakers. In this essay, I explore arguments Allan Bernardo made on code-switching between English and Tagalog, and I focus primarily on inspecting the Filipino government's legislative ambitions whilst regulating curriculum for university students in the Philippines. 
 
-* [A Comparative Overview of U.S. Grand Strategy](https://docs.google.com/document/d/1p9HBv0WfvXqYRD7hIKIiB4Bt0qXF7noIhyQjK359VjM/edit?usp=sharing). My final paper for a Government seminar class at Cornell University in the Spring of 2020.
+* [A Comparative Overview of U.S. Grand Strategy](https://docs.google.com/document/d/e/2PACX-1vRHTuLdYUClRCWjJDB8q0298J8VgACpDkgjNLi60GW0dwwEB9dzcmXVNoPEn8YFu8N0sTWAs5_qiu-Y/pub). My final paper for a Government seminar class at Cornell University in the Spring of 2020.
 
 * [How Re-Defining the Boundaries of "Security Studies" Would Protect the Marginalized](https://docs.google.com/document/d/19y29outELMeemi3s0dejfwiO7CQ75aV7u-td3SgKszE/edit?usp=sharing). A research proposal I submitted for a Government seminar class at Cornell University in the Spring of 2020.
 
