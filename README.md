@@ -4,7 +4,7 @@ I'm a 21 y/o developer, writer, teacher, and student. I am based out of Ithaca, 
 
 # The Good Stuff
 
-In my spare time, I usually find myself [buried in some light reading](https://www.goodreads.com/user/show/84197654-nalu-concepcion), [connecting (pun very much so intended)](https://www.linkedin.com/in/nalu-concepcion/) with others, or [sipping on sounds](https://open.spotify.com/user/naluasti?si=EvYyFZz-TrmOUjyUNYGkXw). I'm always down to chat about anything at all -- CS, politics, the world, your lunch. I've recently developed a budding interest in digital agriculture and food and soil science. If you know of any good literature on those topics, [shoot me an email](mailto:lac327@cornell.edu)! 
+In my spare time, I usually find myself [buried in some light reading](https://www.goodreads.com/user/show/84197654-nalu-concepcion), [connecting (ha)](https://www.linkedin.com/in/nalu-concepcion/) with others, or [sipping on sounds](https://open.spotify.com/user/naluasti?si=EvYyFZz-TrmOUjyUNYGkXw). I'm always down to chat about anything at all -- CS, politics, the world, your lunch. I've recently developed a budding interest in digital agriculture and food and soil science. If you know of any good literature on those topics, [shoot me an email](mailto:lac327@cornell.edu)! 
 
 # Projects
 
