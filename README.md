@@ -1,10 +1,19 @@
-# The Rundown
+# 👋
 
-I'm a 21 y/o software developer. I am based out of Ithaca, NY, and I spent the last summer in Redmond, WA for a summer software engineering internship at Microsoft! I'm a recent grad from Cornell Engineering with a double major in Operations Research and Computer Science. 
+i'm Nalu, a twenty-something software engineer @ Microsoft. i consider myself a builder (and occasionally, a writer). i'm currently based out of Seattle, WA, but depending on the season, i flux between here, NYC, and my hometown. ⛰️
 
-# The Good Stuff
+## my online personas
 
-In my spare time, I usually find myself [buried in some light reading](https://www.goodreads.com/user/show/84197654-nalu-concepcion), [connecting (ha)](https://www.linkedin.com/in/nalu-concepcion/) with others, or [sipping on sounds](https://open.spotify.com/user/naluasti?si=EvYyFZz-TrmOUjyUNYGkXw). I'm always down to chat about anything at all -- CS, a [good book](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime), the world, your lunch. I've recently developed a budding interest in digital agriculture and food and soil science. If you know of any good literature or interesting people knowledgeable on those topics, [shoot me an email](mailto:lac327@cornell.edu)! 
+* [📎](https://www.linkedin.com/in/nalu-concepcion/) linkedin
+* [📖](https://www.goodreads.com/user/show/84197654-nalu-concepcion) goodreads
+* [🔊](https://open.spotify.com/user/naluasti?si=EvYyFZz-TrmOUjyUNYGkXw) spotify
+* personal blog coming soon!
+
+i'm constantly on the hunt for ✨ shiny ✨new facts. recently, i've found myself engrossed in indie video game development _lore_. if you have material for me to digest on the topic (or anything else you find interesting and think i'd like), feel free to shoot it my way!
+
+### disclaimer: anything below the line is ancient, but i haven't found another home for this section just yet
+
+-------
 
 # Projects
 
