@@ -1,6 +1,6 @@
 # 👋
 
-i'm Nalu, a twenty-something software engineer @ Microsoft. i consider myself a builder (and occasionally, a writer). i'm currently based out of Seattle, WA, but depending on the season, i flux between Seattle, NYC, Asia, and my hometown. ⛰️
+i'm Nalu, a twenty-something software engineer 🔨 @ Microsoft. i consider myself a builder (and occasionally, a writer ✍️). i'm currently based out of ⛰️ Seattle, WA, but depending on the season, i flux between Seattle, NYC 🗽, Asia 🌏, and my hometown 🏡. 
 
 ## my online personas
 
