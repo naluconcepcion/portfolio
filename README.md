@@ -1,6 +1,6 @@
 # 👋
 
-i'm Nalu, a twenty-something software engineer @ Microsoft. my hobbies consist of buildings things, cooking, running, and curating Spotify playlists with no discernible theme apart from "songs i like to listen to in this particular grouping". 
+i'm Nalu, a twenty-something software engineer. (formerly Microsoft, now building my own thing!) my hobbies consist of cooking, running, and curating Spotify playlists with no discernible theme apart from "songs that are vibe-coherent to my specific set of lived experiences". 
 
 i'm currently based out of ⛰️ Seattle, WA, but depending on the season, i flux between Seattle, NYC 🗽, Asia 🌏, and my hometown 🏡. 
 
